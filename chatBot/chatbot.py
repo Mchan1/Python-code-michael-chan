@@ -73,7 +73,7 @@ while True:
 
 
 
-yes=["yes","yep"]
+yes=["yes","yep","Yes"]
 
 if  YouBeenUpTooMuch in yes:
     response = raw_input("Which day have you been the busiest? ")
