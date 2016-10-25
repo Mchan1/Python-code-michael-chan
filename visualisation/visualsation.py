@@ -14,10 +14,7 @@ while True:
     for item in data:
         colour=color_rgb(250,item*2,200)
         window.setBackground(colour)
-# Create and draw a circle
 
-      #  if x<499: x=x+5 
-       # if y<499: y=y+5
             
         
        
